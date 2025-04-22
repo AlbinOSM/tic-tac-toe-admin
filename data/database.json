@@ -1,0 +1,26 @@
+{
+  "players": [
+    {
+      "username": "Albin",
+      "password": "admin123",
+      "coins": 1000,
+      "wins": 5,
+      "isAdmin": true
+    },
+    {
+      "username": "player1",
+      "password": "pass1",
+      "coins": 50,
+      "wins": 3,
+      "isAdmin": false
+    },
+    {
+      "username": "player2",
+      "password": "pass2",
+      "coins": 30,
+      "wins": 1,
+      "isAdmin": false
+    }
+  ],
+  "games": []
+}
